@@ -8,7 +8,7 @@
 		<version>2.7.13</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.beauty-salon</groupId>
+	<groupId>com.techstore</groupId>
 	<artifactId>tech-store</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TechStore</name>

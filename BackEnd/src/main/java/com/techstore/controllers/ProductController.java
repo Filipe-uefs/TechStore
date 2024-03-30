@@ -1,8 +1,8 @@
-package com.beautysalon.beaturysalon.controllers;
+package com.techstore.controllers;
 
-import com.beautysalon.beaturysalon.dto.ProductRequestDTO;
-import com.beautysalon.beaturysalon.dto.ProductResponseDTO;
-import com.beautysalon.beaturysalon.services.ProductService;
+import com.techstore.dto.ProductRequestDTO;
+import com.techstore.dto.ProductResponseDTO;
+import com.techstore.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.beautysalon.beaturysalon.models;
+package com.techstore.models;
 
 import lombok.Data;
 

@@ -1,8 +1,8 @@
-package com.beautysalon.beaturysalon.mapper;
+package com.techstore.mapper;
 
-import com.beautysalon.beaturysalon.dto.ProductRequestDTO;
-import com.beautysalon.beaturysalon.dto.ProductResponseDTO;
-import com.beautysalon.beaturysalon.models.ProductModel;
+import com.techstore.dto.ProductRequestDTO;
+import com.techstore.dto.ProductResponseDTO;
+import com.techstore.models.ProductModel;
 
 import java.util.List;
 

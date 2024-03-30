@@ -1,6 +1,6 @@
-package com.beautysalon.beaturysalon.repositories;
+package com.techstore.repositories;
 
-import com.beautysalon.beaturysalon.models.ProductModel;
+import com.techstore.models.ProductModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

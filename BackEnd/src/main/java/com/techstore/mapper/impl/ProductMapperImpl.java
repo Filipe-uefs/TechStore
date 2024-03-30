@@ -1,9 +1,9 @@
-package com.beautysalon.beaturysalon.mapper.impl;
+package com.techstore.mapper.impl;
 
-import com.beautysalon.beaturysalon.dto.ProductRequestDTO;
-import com.beautysalon.beaturysalon.dto.ProductResponseDTO;
-import com.beautysalon.beaturysalon.mapper.ProductMapper;
-import com.beautysalon.beaturysalon.models.ProductModel;
+import com.techstore.dto.ProductRequestDTO;
+import com.techstore.dto.ProductResponseDTO;
+import com.techstore.mapper.ProductMapper;
+import com.techstore.models.ProductModel;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
